@@ -1,0 +1,7 @@
+<h1><a href='javascript:(function(a){var b=a.document,c=b.getElementsByTagName("a"),d,e,f,g;for(var h=0,i=c.length;h<i;h++)d=c[h],e=d.innerText,f=e=d.innerText,e.toLowerCase()==="click here"&&(g=e.charAt(0)==="C"?"M":"m",g+="ake @julesmarie cry",d.textContent=g)})(window)'>make @julesmarie cry</a></h1>
+
+## &uarr; Drag link above to your bookmarks toolbar
+
+> Linking copy that says "Click here" makes me want to cry.
+
+[Click here](https://twitter.com/julesmarie/status/186989361391349760) to view @julesmarie's original tweet.
