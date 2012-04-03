@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OUT=REAMDE.mdown
+OUT=README.mdown
 
 echo -n "<h1><a href='javascript:" > $OUT
 uglifyjs -nc make-julesmarie-cry.js >> $OUT
