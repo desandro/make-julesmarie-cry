@@ -2,7 +2,7 @@
 
 OUT=README.mdown
 
-echo -n "<h1><a href='javascript:" > $OUT
+echo -n " <h1><a href='javascript:" > $OUT
 uglifyjs -nc make-julesmarie-cry.js >> $OUT
 echo "'>make @julesmarie cry</a></h1>" >> $OUT
 
